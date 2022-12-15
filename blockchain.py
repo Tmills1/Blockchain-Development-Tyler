@@ -56,7 +56,7 @@ class Blockchain:
 
 
 
-app = Flask(__Tyler__)
+app = Flask(__json__)
 
 
 blockchain = Blockchain()
